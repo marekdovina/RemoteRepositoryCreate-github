@@ -1,0 +1,3 @@
+gh_user:
+  email: GITHUB_LOGIN_EMAIL_ADDRESS
+  password: GITHUB_LOGIN_PASSWORD
